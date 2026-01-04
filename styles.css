@@ -31,14 +31,14 @@ body {
 }
 
 .res {
-  width: 800px;
+  width: 900px;
   height: auto;
   display: flex;
   margin: 50px auto;
 }
 
 .res .res_izq {
-  width: 280px;
+  width: 290px;
   background: #510db3;
   border-radius: 40px 0px 0px 40px;
 }
